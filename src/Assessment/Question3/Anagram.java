@@ -24,7 +24,7 @@ public class Anagram {
                 "A gentleman", "Elegant man",
                 "Dormitory", "Dirty room",
                 "The eyes", "They see",
-                "Astronomer", "Moon starer"
+                "Astronomer", "MoonStarer"
         };
 
         List<List<String>> anagramGroups = groupAnagrams(words);

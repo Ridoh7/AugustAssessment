@@ -15,7 +15,7 @@ public class FindPairWithSum {
         return result;}
     public static void main(String[] args) {
         int[] nums = {8, 7, 2, 5, 3, 1, 5, 3};
-        int target = 10;
+        int target = 12;
         List<List<Integer>> pairs = findAllPairsWithSum(nums, target);
 
 //        System.out.println(pairs);

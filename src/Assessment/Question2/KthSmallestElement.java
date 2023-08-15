@@ -15,7 +15,7 @@ public class KthSmallestElement {
 
         public static void main(String[] args) {
             int[] arr = {7, 4, 6, 3, 9, 1};
-            int k = 3;
+            int k = 6;
 
             System.out.println("Input:");
             System.out.println("arr = " + Arrays.toString(arr));
